@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding:  0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: white;
+    margin:  0 auto;
+    padding: 20px;
+
+}
+.container-ps{
+    margin-top: 10px;
+    background-color: rgba(95, 199, 182, 0.479);
+    padding: 4px;
+}
+header{
+    
+}
+
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid #f5e1e1;
+    border-radius: 50%;
+    float: left;
+
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+
+}
+.header-contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.header a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.div-clear{
+    clear: both;
+} 
+
+hr{
+    border: solid black 3px ;
+    width: 100%;
+    margin:  20px auto;
+    border-bottom: none;
+}
+/*...................
+Personal Section Start
+.....................*/
+#personal-section{
+
+}
+.cntent{
+    margin-bottom: 30px;
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+
+}
+/*........................
+education section part
+....................*/
+.edu-template-left{
+    float: left;
+    width: 100%;
+}
+.edu-template-left a{
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.edu-template-right{
+    margin-top: 10px;
+    float: bottom;
+    width: 100%;
+}
+.edu-template-right a{
+    text-decoration: none;
+    
+}
+
+
+/*........................
+education section part
+....................*/
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: green;
+    margin-top: 20px;
+}
+
+
